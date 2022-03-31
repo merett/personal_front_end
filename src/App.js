@@ -72,7 +72,7 @@ function App() {
     const mainContainerDivStyle = {
         width:size.x,
         height:size.y,
-        backgroundColor:"#ffffff",
+        backgroundColor:"#000000",
     };
 
 
@@ -298,6 +298,38 @@ function App() {
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div className={"section2"} style={mainContainerDivStyle} >
+            <div className="top row">
+                <div className="d-flex p-5 flex-column">
+                    <div className={"col-md-12"}>
+                        <div className={"d-flex align-items-center"}>
+                            <div className={"col-2 align-self-center"} style={{color:"#FFF",backgroundColor:"#eb83f8",height:3, width:50}}>
+
+                            </div>
+                            <h4 className={"m-0 mx-2"} style={{color:"#FFF"}}>Services</h4>
+                        </div>
+                        <div className={"d-flex"}>
+                            <div className={"glitch"}>
+                                <h1 className={"line"} style={{textAlign:"left",fontSize:size.x>1000 ? size.x*0.04 : size.x*0.05,fontWeight:"lighter",fontFamily:"Barlow",color:"#000000"}}>What can I do for YOU?</h1>
+                                <h1 className={"line"} style={{textAlign:"left",fontSize:size.x>1000 ? size.x*0.04 : size.x*0.05,fontWeight:"lighter",fontFamily:"Barlow",color:"#000000"}}>What can I do for YOU?</h1>
+                                <h1 className={"line"} style={{textAlign:"left",fontSize:size.x>1000 ? size.x*0.04 : size.x*0.05,fontWeight:"lighter",fontFamily:"Barlow",color:"#000000"}}>What can I do for YOU?</h1>
+                                <h1 className={"line"} style={{textAlign:"left",fontSize:size.x>1000 ? size.x*0.04 : size.x*0.05,fontWeight:"lighter",fontFamily:"Barlow",color:"#000000"}}>What can I do for YOU?</h1>
+                                <h1 className={"line"} style={{textAlign:"left",fontSize:size.x>1000 ? size.x*0.04 : size.x*0.05,fontWeight:"lighter",fontFamily:"Barlow",color:"#000000"}}>What can I do for YOU?</h1>
+                                <h1 className={"line"} style={{textAlign:"left",fontSize:size.x>1000 ? size.x*0.04 : size.x*0.05,fontWeight:"lighter",fontFamily:"Barlow",color:"#000000"}}>What can I do for YOU?</h1>
+                                <h1 className={"line"} style={{textAlign:"left",fontSize:size.x>1000 ? size.x*0.04 : size.x*0.05,fontWeight:"lighter",fontFamily:"Barlow",color:"#000000"}}>What can I do for YOU?</h1>
+                                <h1 className={"line"} style={{textAlign:"left",fontSize:size.x>1000 ? size.x*0.04 : size.x*0.05,fontWeight:"lighter",fontFamily:"Barlow",color:"#000000"}}>What can I do for YOU?</h1>
+                                <h1 className={"line"} style={{textAlign:"left",fontSize:size.x>1000 ? size.x*0.04 : size.x*0.05,fontWeight:"lighter",fontFamily:"Barlow",color:"#000000"}}>What can I do for YOU?</h1>
+                            </div>
+                        </div>
+                        <div className={"d-flex"} style={{minHeight:"530px"}}>
+
                         </div>
                     </div>
                 </div>
