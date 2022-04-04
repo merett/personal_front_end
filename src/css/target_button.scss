@@ -16,6 +16,24 @@
     background-color: #ffffff;
 }
 
+.downloadcvmobile {
+    width: 130px;
+    height: 30px;
+    border: 1px solid #000000;
+    font-family: 'Barlow', serif;
+    color: #000000;
+    font-size: 15px;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 0;
+    transition: 1s;
+    background-color: #ffffff;
+}
+
 .downloadcv::before, .downloadcv::after {
     position: absolute;
     background: #ffffff;
