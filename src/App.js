@@ -245,7 +245,7 @@ function App() {
                                                         "Vizrt Graphic Developer",
                                                         "Vizrt Graphic Automation",
                                                         'Php Developer',
-                                                        'Maybe React Developer',
+                                                        'React Developer',
                                                     ]}
                                                     multiTextDelay={2000}
                                                     typeSpeed={40}
@@ -931,7 +931,7 @@ function App() {
                                                         "Vizrt Graphic Developer",
                                                         "Vizrt Graphic Automation",
                                                         'Php Developer',
-                                                        'Maybe React Developer',
+                                                        'React Developer',
                                                     ]}
                                                     multiTextDelay={2000}
                                                     typeSpeed={40}
