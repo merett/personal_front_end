@@ -265,9 +265,20 @@ function App() {
                                     </div>
                                 </div>
                             </div>
-                            <div className={"col-md-6 col-sm-12 h-100 p-3"}
-                                 style={{backgroundImage: " url(\"/img/prof.png\")", backgroundPosition: "center", backgroundSize:"cover"}}>
+                            <div className={"col-md-6 col-sm-12 h-100 p-3"} style={{backgroundColor:"#001556"}}>
+                                <div className={"row"}>
+                                    <div className={"col-4"}>
+                                        <div className="card">
+                                            <img className="card-img-top p-2" src="img/logo-letter-13.png" alt="Card image cap"/>
+                                            <div className="card-body">
+                                                <h5 className="card-title">My First Php Project</h5>
+                                                <p className="card-text">Loopviz is a simple support management system. Written for the workflow between the News and Graphics Department.<br/><br/> The system is built on PHP and written entirely by me.</p>
+                                                <a href="#" className="btn btn-primary">Go somewhere</a>
+                                            </div>
+                                        </div>
+                                    </div>
 
+                                </div>
                             </div>
                         </div>
                     </div>
